@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL (work in progress): [Solution](https://your-solution-url.com)
+- Solution URL (work in progress): [Solution](https://francomoraes.github.io/preview-card/)
 
 
 ## My process
