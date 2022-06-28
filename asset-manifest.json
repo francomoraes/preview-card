@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git@github.com:francomoraes/preview-card.git/static/css/main.c6909e0b.css",
-    "main.js": "/git@github.com:francomoraes/preview-card.git/static/js/main.210a3c04.js",
-    "static/media/image-product-desktop.jpg": "/git@github.com:francomoraes/preview-card.git/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
-    "index.html": "/git@github.com:francomoraes/preview-card.git/index.html",
-    "static/media/icon-cart.svg": "/git@github.com:francomoraes/preview-card.git/static/media/icon-cart.9606ad84b7565a3f523f.svg",
-    "main.c6909e0b.css.map": "/git@github.com:francomoraes/preview-card.git/static/css/main.c6909e0b.css.map",
-    "main.210a3c04.js.map": "/git@github.com:francomoraes/preview-card.git/static/js/main.210a3c04.js.map"
+    "main.css": "/preview-card/static/css/main.6adc3c26.css",
+    "main.js": "/preview-card/static/js/main.538b2930.js",
+    "static/media/image-product-desktop.jpg": "/preview-card/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "index.html": "/preview-card/index.html",
+    "static/media/icon-cart.svg": "/preview-card/static/media/icon-cart.9606ad84b7565a3f523f.svg",
+    "main.6adc3c26.css.map": "/preview-card/static/css/main.6adc3c26.css.map",
+    "main.538b2930.js.map": "/preview-card/static/js/main.538b2930.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6909e0b.css",
-    "static/js/main.210a3c04.js"
+    "static/css/main.6adc3c26.css",
+    "static/js/main.538b2930.js"
   ]
 }
